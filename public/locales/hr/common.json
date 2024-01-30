@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanali",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Stopa bitova",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Uspjelo",
@@ -694,6 +702,11 @@
         "targets_down": "Neaktivni ciljevi",
         "targets_total": "Ukupno ciljeva"
     },
+    "gatus": {
+        "up": "Aktivne stranice",
+        "down": "Neaktivne stranice",
+        "uptime": "Radno vrijeme"
+    },
     "ghostfolio": {
         "gross_percent_today": "Today",
         "gross_percent_1y": "Jedna godina",
@@ -774,6 +787,14 @@
         "stopped": "Prekinuto",
         "passed": "Uspjelo",
         "failed": "Neuspjelo"
+    },
+    "openwrt": {
+        "uptime": "Radno vrijeme",
+        "cpuLoad": "CPU Load Avg (5m)",
+        "up": "Up",
+        "down": "Down",
+        "bytesTx": "Transmitted",
+        "bytesRx": "Received"
     },
     "uptimerobot": {
         "status": "Stanje",

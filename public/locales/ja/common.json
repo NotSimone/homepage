@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "チャンネル",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "ビットレート",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "合格",
@@ -694,6 +702,11 @@
         "targets_down": "ターゲット Down",
         "targets_total": "ターゲット合計"
     },
+    "gatus": {
+        "up": "サイトUp",
+        "down": "サイトDown",
+        "uptime": "稼働時間"
+    },
     "ghostfolio": {
         "gross_percent_today": "今日",
         "gross_percent_1y": "1年",
@@ -774,6 +787,14 @@
         "stopped": "停止中",
         "passed": "合格",
         "failed": "失敗"
+    },
+    "openwrt": {
+        "uptime": "稼働時間",
+        "cpuLoad": "CPU Load Avg (5m)",
+        "up": "上へ",
+        "down": "下へ",
+        "bytesTx": "Transmitted",
+        "bytesRx": "Received"
     },
     "uptimerobot": {
         "status": "状態",

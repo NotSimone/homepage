@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Channels",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Rata de biți",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Passed",
@@ -694,6 +702,11 @@
         "targets_down": "Targets Down",
         "targets_total": "Total Targets"
     },
+    "gatus": {
+        "up": "Sites Up",
+        "down": "Sites Down",
+        "uptime": "Uptime"
+    },
     "ghostfolio": {
         "gross_percent_today": "Today",
         "gross_percent_1y": "One year",
@@ -774,6 +787,14 @@
         "stopped": "Oprit",
         "passed": "Passed",
         "failed": "Failed"
+    },
+    "openwrt": {
+        "uptime": "Uptime",
+        "cpuLoad": "CPU Load Avg (5m)",
+        "up": "Sus",
+        "down": "Jos",
+        "bytesTx": "Transmitted",
+        "bytesRx": "Received"
     },
     "uptimerobot": {
         "status": "Stare",

@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanale",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Kanaal",
+        "channelNetwork": "Netwerk",
+        "signalStrength": "Sterkte",
+        "signalQuality": "Kwaliteit",
+        "symbolQuality": "Kwaliteit",
+        "networkRate": "Bistempo",
+        "clientIP": "Kliënt"
     },
     "scrutiny": {
         "passed": "Geslaag",
@@ -694,6 +702,11 @@
         "targets_down": "Teikens Af",
         "targets_total": "Totale Teikens"
     },
+    "gatus": {
+        "up": "Werwe Op",
+        "down": "Werwe Af",
+        "uptime": "Optyd"
+    },
     "ghostfolio": {
         "gross_percent_today": "Vandag",
         "gross_percent_1y": "Een jaar",
@@ -775,6 +788,14 @@
         "passed": "Geslaag",
         "failed": "Misluk"
     },
+    "openwrt": {
+        "uptime": "Optyd",
+        "cpuLoad": "CPU Load Avg (5m)",
+        "up": "Op",
+        "down": "Af",
+        "bytesTx": "Transmitted",
+        "bytesRx": "Ontvang"
+    },
     "uptimerobot": {
         "status": "Status",
         "uptime": "Optyd",
@@ -797,11 +818,11 @@
         "noEventsFound": "Geen gebeure gevind nie"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Platform",
+        "totalRoms": "Totale ROMs"
     },
     "netdata": {
-        "warnings": "Warnings",
-        "criticals": "Criticals"
+        "warnings": "Waarskuwings",
+        "criticals": "Kritici"
     }
 }
